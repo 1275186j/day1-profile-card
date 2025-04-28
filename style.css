@@ -1,1 +1,23 @@
+#profileCard {
+  width: 5;
+  padding: 10;
+  border: 3 solid black;
+  margin: 7;
+  background-color: green;
+}
 
+.lebron {
+  font-size: 17;
+  font-weight: 7;
+  text-align: center;
+}
+
+.steph{
+  font-size: 14;
+  color: yellow;
+  text-align: center;
+}
+img {
+  width:5%;
+  border-radius: 4;
+}
